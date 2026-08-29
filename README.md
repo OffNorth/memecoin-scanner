@@ -1,1 +1,0 @@
-# memecoin-scanner
