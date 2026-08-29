@@ -1,0 +1,19 @@
+# ============================================
+# Memecoin Scanner Bot — Configuration
+# ============================================
+# Remplace les valeurs ci-dessous par les tiennes
+# NE JAMAIS PARTAGER CE FICHIER (ajoute-le à .gitignore)
+
+# --- OBLIGATOIRE ---
+# Va sur @BotFather sur Telegram, crée un bot, copie le token ici
+TELEGRAM_BOT_TOKEN=123456789:ABCdefGHIjklMNOpqrsTUVwxyz
+
+# --- OPTIONNEL MAIS RECOMMANDÉ ---
+# Inscription gratuite sur etherscan.io/apis
+ETHERSCAN_API_KEY=TON_API_KEY_ICI
+
+# Inscription gratuite sur bscscan.com/apis
+BSCSCAN_API_KEY=TON_API_KEY_ICI
+
+# Inscription sur app.bubblemaps.io/api (optionnel)
+BUBBLEMAPS_API_KEY=TON_API_KEY_ICI
